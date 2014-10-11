@@ -1,9 +1,10 @@
 MutuallyAssuredPizza
 ====================
-A project for hack mizzou 2014
-====================
+
+
 ![](http://i.imgur.com/BL7qbTF.jpg)
-HackMizzou Project
+
+A project for hack mizzou 2014
 
 This is the project made by Peter Dirks, Greg Highland, and Robert Stovall.
 The point of this project is to connect hardware inputs to an Arduino, then use the inputs given from the Arduino to order a pizza.
