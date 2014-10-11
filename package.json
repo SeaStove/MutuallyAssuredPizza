@@ -1,0 +1,23 @@
+{
+  "name": "MAP",
+  "version": "0.0.0",
+  "description": "order pizza from switches and buttons",
+  "main": "main.js",
+  "dependencies": {
+    "fs": "~0.0.2",
+    "serialport": "~1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PDirks-/MutuallyAssuredPizza.git"
+  },
+  "author": "Peter Dirks",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/PDirks-/MutuallyAssuredPizza/issues"
+  }
+}
