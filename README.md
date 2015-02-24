@@ -2,7 +2,6 @@ MutuallyAssuredPizza
 ====================
 
 
-<<<<<<< HEAD
 =======
 ![](http://i.imgur.com/BL7qbTF.jpg)
 
